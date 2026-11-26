@@ -1,0 +1,1 @@
+# autosmm-lite-updates
