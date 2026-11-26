@@ -65,6 +65,8 @@ Your key stays on your computer and is only sent to the model provider you pick.
 - Strategies and drafts are written to a company standard: candidates and hiring teams are kept separate, and posts never imply a score predicts job performance.
 - Image prompts are now clear, step-by-step instructions for Gemini or ChatGPT, using the TheInterviews navy, blue and green palette and the right shape and safe areas for each platform.
 - What's new: a button in the footer shows what changed in each release, and it opens by itself once after you update.
+- Interface size: choose 80% to 125% in Settings to fit more on screen or read more easily.
+- Light and dark mode: a sun and moon button in the header switches between them.
 
 ### 1.0.1: AutoSMM Lite, designed for TheInterviews
 
