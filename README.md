@@ -1,10 +1,29 @@
+<div align="center">
+
+<img src="logo.png" alt="AutoSMM Lite logo" width="88">
+
 # AutoSMM Lite
 
-**Designed for TheInterviews.**
+**Designed for TheInterviews**
 
-AutoSMM Lite is a social media agent for TheInterviews.ai. Tell it about the product once, and it plans the strategy and writes the posts. You edit each draft and publish it yourself. It never posts for you.
+A social media agent for TheInterviews.ai. Tell it about the product once, and it plans the strategy and writes the posts for LinkedIn, Instagram, X, Facebook, YouTube, TikTok and Reddit.
 
-The source code is private. This page is where you download the app.
+![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-2f5ff0)
+![Bring your own key](https://img.shields.io/badge/bring%20your%20own-API%20key-6dbf8b)
+![Human in the loop](https://img.shields.io/badge/you%20post-never%20auto--posts-0a0d24)
+![Source](https://img.shields.io/badge/source%20code-private-4a5568)
+
+<br>
+
+</div>
+
+> [!IMPORTANT]
+> **It never posts for you.** You edit each draft, copy it, and publish it yourself.
+
+<p align="center">
+  <img src="docs/images/brief.png" alt="The brief screen, filled in with the TheInterviews.ai example" width="49%">
+  <img src="docs/images/strategy.png" alt="The strategy screen" width="49%">
+</p>
 
 ## Download
 
