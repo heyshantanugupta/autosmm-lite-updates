@@ -43,9 +43,10 @@ The apps are not code signed yet, so the first launch shows a warning.
 - **Builds the strategy:** positioning, audiences, content themes, which platforms to use, a weekly rhythm and what to measure.
 - **Writes the posts:** drafts for LinkedIn, Instagram, X, Facebook, YouTube, TikTok and Reddit, using only the facts you give it.
 - **Checks every draft:** flags claims and numbers that are not in your facts, and phrases you told it never to say.
-- **Creates images:** gives you a ready-to-paste prompt for Gemini or ChatGPT.
+- **Creates images:** gives you a clear, ready-to-paste prompt for Gemini or ChatGPT, in the TheInterviews colors and the right shape for each platform.
 - **Gets you posting:** copies the post and opens the platform. Adds tracked links so you can see what brings people in.
 - **Exports the plan:** download the strategy as PDF or Word.
+- **Shows what changed:** a "What's new" button in the app footer lists the changes in each version, and opens once after you update.
 
 ## How to use it
 
@@ -54,6 +55,33 @@ The apps are not code signed yet, so the first launch shows a warning.
 3. Review the strategy, pick a platform and post types, then edit and copy your drafts.
 
 Your key stays on your computer and is only sent to the model provider you pick.
+
+## What's new
+
+<!-- whats-new:start -->
+### 1.0.2: Sharper posts, on-brand images and a What's new window
+
+- New logo: six bold rays in black, white and TheInterviews green.
+- Strategies and drafts are written to a company standard: candidates and hiring teams are kept separate, and posts never imply a score predicts job performance.
+- Image prompts are now clear, step-by-step instructions for Gemini or ChatGPT, using the TheInterviews navy, blue and green palette and the right shape and safe areas for each platform.
+- What's new: a button in the footer shows what changed in each release, and it opens by itself once after you update.
+
+### 1.0.1: AutoSMM Lite, designed for TheInterviews
+
+- The app is now called AutoSMM Lite and uses the TheInterviews colors.
+- The version number is shown in the footer.
+- The app tells you when a newer version is available. It only tells you, and never installs anything.
+- Installers are published on the public downloads page.
+
+### 1.0.0: First release
+
+- Build a social media strategy from a short product brief.
+- Write drafts for LinkedIn, Instagram, X, Facebook, YouTube, TikTok and Reddit.
+- Every draft is checked against your facts and your do-not-say rules.
+- Image prompts, tracked link ideas and exports to PDF, Word and Markdown.
+<!-- whats-new:end -->
+
+Every release page lists its changes too, and the app shows them in its footer under "What's new".
 
 ## Updates
 
