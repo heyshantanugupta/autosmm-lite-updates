@@ -61,7 +61,7 @@ Your key stays on your computer and is only sent to the model provider you pick.
 <!-- whats-new:start -->
 ### 1.0.3: A new logo
 
-- New logo: a chat bubble with a green check, in black, white and TheInterviews green.
+- New logo: a post card with a green dot, in black, white and TheInterviews green.
 
 ### 1.0.2: Sharper posts, on-brand images and a What's new window
 
