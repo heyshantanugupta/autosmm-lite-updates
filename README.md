@@ -27,9 +27,9 @@ A social media agent for TheInterviews.ai. Tell it about the product once, and i
 
 ## Download
 
-- [Windows installer](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.1/AutoSMM-Lite-Setup-1.0.1-windows-x64.exe)
-- [Mac, Apple chip (M1 or newer)](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.1/AutoSMM-Lite-1.0.1-mac-arm64.dmg)
-- [Mac, Intel chip](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.1/AutoSMM-Lite-1.0.1-mac-x64.dmg)
+- [Windows installer](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.2/AutoSMM-Lite-Setup-1.0.2-windows-x64.exe)
+- [Mac, Apple chip (M1 or newer)](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.2/AutoSMM-Lite-1.0.2-mac-arm64.dmg)
+- [Mac, Intel chip](https://github.com/heyshantanugupta/autosmm-lite-updates/releases/download/v1.0.2/AutoSMM-Lite-1.0.2-mac-x64.dmg)
 
 All versions are on the [Releases page](https://github.com/heyshantanugupta/autosmm-lite-updates/releases).
 
