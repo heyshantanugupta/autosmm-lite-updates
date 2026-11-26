@@ -59,6 +59,10 @@ Your key stays on your computer and is only sent to the model provider you pick.
 ## What's new
 
 <!-- whats-new:start -->
+### 1.0.3: A new logo
+
+- New logo: a chat bubble with a green check, in black, white and TheInterviews green.
+
 ### 1.0.2: Sharper posts, on-brand images and a What's new window
 
 - New logo: six bold rays in black, white and TheInterviews green.
@@ -74,13 +78,6 @@ Your key stays on your computer and is only sent to the model provider you pick.
 - The version number is shown in the footer.
 - The app tells you when a newer version is available. It only tells you, and never installs anything.
 - Installers are published on the public downloads page.
-
-### 1.0.0: First release
-
-- Build a social media strategy from a short product brief.
-- Write drafts for LinkedIn, Instagram, X, Facebook, YouTube, TikTok and Reddit.
-- Every draft is checked against your facts and your do-not-say rules.
-- Image prompts, tracked link ideas and exports to PDF, Word and Markdown.
 <!-- whats-new:end -->
 
 Every release page lists its changes too, and the app shows them in its footer under "What's new".
